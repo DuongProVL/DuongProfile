@@ -95,7 +95,7 @@ body {
     border: 2px solid #e66767;
     border-radius: 6px;
     margin-top: 16px;
-    transition: .3s linear;
+    transition: .100s linear;
 }
 
 .contact-btn:hover {
